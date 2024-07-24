@@ -1,0 +1,566 @@
+<html>
+    <head>
+        <link href="okokok.css" rel="stylesheet">
+        <link href="bootstrap.min-pack.css" rel="stylesheet" >
+    </head>
+    <body>
+        <div class="container-all">
+        <p class="linkedin-page">Follow us on our <span class="bold-text">LinkedIn page</span></p>    
+        <div class="container">
+  
+          <div class="container-all">
+            <header>
+            <nav>
+            <div class="logo">
+            <a href="#"><img src="https://lh3.googleusercontent.com/p/AF1QipMGp8IzPD4O2u3vdpu-DKHmQUO8UC-nFk0-IqM5=s1360-w1360-h1020" alt="White Books"></a>
+            </div>
+            <div class="nav-links">
+            <div class="dropdown">
+            
+            <div class="dropdown-content">
+            <!-- Add product links here -->
+            </div>
+            </div>
+            <div class="dropdown">
+            <button class="dropbtn">Products</button>
+            <div class="dropdown-content">
+            <a href="#">Softwares</a>
+            <a href="#">Connectors</a>
+            <a href="#">API's</a>
+            </div>
+            </div>
+            <div class="dropdown">
+            <button class="dropbtn">Services</button>
+            <div class="dropdown-content">
+            <a href="#">Registration</a>
+            <a href="#">Compliance</a>
+            <a href="#">Audit Services</a>
+            <a href="#">Managed Services</a>
+            </div>
+            </div>
+            <div class="dropdown">
+            <button class="dropbtn">Resources</button>
+            <div class="dropdown-content">
+            <a href="#">Resources</a>
+            <a href="#">Tools</a>
+            
+            </div>
+            </div>
+            <div class="dropdown">
+            
+            <div class="dropdown-content">
+            <!-- Add resource links here -->
+            </div>
+            </div>
+
+            
+            <div class="dropdown">
+            <button class="dropbtn">Talk to Sales: +91 9032111788</button>
+            <div class="dropdown-content">
+            <a href="#">Sales Team</a>
+            <a href="#">+91 9032111788</a>
+            <a href="#">Support Team</a>
+            <a href="#">+91 9032111388</a>
+            </div>
+            </div>         
+            </div>
+            <div class="auth-links">
+            <a href="#" class="sign-in">Sign in</a>
+            <a href="#" class="sign-up">Sign up</a>
+            </div>
+            </nav>
+            </header>
+            </div>
+
+
+         </div>
+         <div class="container">
+              <div class="row">
+                  <div class="col-7 heading-decaration">
+                      <h1 class="main-deading">Your One-Stop Solution for Accounting, GST, e-Way Bill, and e-Invoice Needs.</h1>
+                      <p class="paragraph">India’s Best Accounting, GST Billing & Invoicing Software</p>
+                      <button class="Request-Demo-button">Request Demo  -></button>
+                  </div>  
+                  <div class="col-5 image-tag">
+                  </div>  
+       
+              </div>
+         </div>
+
+       <div class="bg-container">
+            <div class="container-bill-card">
+                <div class="card">
+                    <img src="https://minio.production.cloudplatform.tech/scalable-pages/2023/05/accounting_tables_logo.svg" alt="Accounting Icon">
+                    <p class="gst-paragraph">ACCOUNTING</p>
+                </div>
+                <div class="card">
+                    <img src="https://mastergst.com/static/images/einvoice/einv-banner-web.png" alt="E-Invoice Software Icon">
+                    <p class="gst-paragraph">E-INVOICE SOFTWARE</p>
+                </div>
+                <div class="card">
+                    <img src="https://mastergst.com/static/images/ewaybill/ewaybillsoftware/eway-bill-img.png" alt="E-Way Bill Software Icon">
+                    <p class="gst-paragraph">E-WAY BILL SOFTWARE</p>
+                </div>
+                <div class="card">
+                    <img src="https://as1.ftcdn.net/v2/jpg/02/51/93/76/1000_F_251937678_4Iq0FCBy6XCId3XCIDvUbezGpgEVDRf8.jpg" alt="GST Software Icon">
+                    <p class="gst-paragraph">GST SOFTWARE</p>
+                </div>
+                <div class="card">
+                    <img src="https://as1.ftcdn.net/v2/jpg/05/42/85/06/1000_F_542850615_1B16r8qsUa5oR8zq4td8wqi911uczewS.jpg" alt="Inventory Icon">
+                    <p class="gst-paragraph">INVENTORY</p>
+                </div>
+                <div class="card">
+                    <img src="https://www.indiafilings.com/learn/wp-content/uploads/2023/09/GST-number-Search.jpg" alt="Multi GST No Search Icon">
+                    <p class="gst-paragraph">MULTI GST NO SEARCH</p>
+                </div>
+                <div class="card">
+                    <img src="https://as2.ftcdn.net/v2/jpg/05/28/32/05/1000_F_528320592_q6ufTlmLAlyWadeWCpZCpZnGVvdsHwiW.jpg" alt="GST API Icon">
+                    <p class="gst-paragraph">GST API</p>
+                </div>
+                <div class="card">
+                    <img src="https://www.refrens.com/grow/wp-content/uploads/2023/09/e-way-bill-1-1200x675.png" alt="E-Way Bill API Icon">
+                    <p class="gst-paragraph">E-WAY BILL API</p>
+                </div>
+                <div class="card">
+                    <img src="https://img.freepik.com/premium-vector/flat-blue-invoice-illustration-vector-flat-illustration-payment-check_123447-1139.jpg?w=740" alt="E-Invoice API Icon">
+                    <p class="gst-paragraph">E-INVOICE API</p>
+                </div>
+                <div class="card">
+                    <img src="https://img.freepik.com/premium-photo/low-section-person-using-laptop-table_1048944-10781639.jpg?w=996" alt="E-Invoice API KSA Icon">
+                    <p class="gst-paragraph">E-INVOICE API - KSA</p>
+                </div>
+            </div>
+       </div>
+
+       <h1 class="we-already-helped">We already helped 30,000+ Customers across India</h1>
+    </br>
+   
+       <div class="gallery-container">
+        <div class="gallery">
+            <img src="https://www.designrush.com/uploads/users/customer-2/image_1505933327_7883a0ffc7906f0d5347d7fa8e42c689.png" alt="Photo 1">
+            <img src="https://www.financialexpress.com/wp-content/uploads/2021/01/Kia-new-logo_black_.jpg" alt="Photo 2">
+            <img src="https://i.pinimg.com/736x/2a/2c/1d/2a2c1d90075390b22e7e6060254dab0d.jpg" alt="Photo 3">
+            <img src="https://www.designrush.com/uploads/users/customer-12/image_1532370578_0mRzJtSfsuLaBrBZZwcyUdSRtyvmHmndLQ2iFIZO.png" alt="Photo 4">
+            <img src="https://www.designrush.com/uploads/users/customer-12/image_1532370597_fxvyDE7rRXPffHwfK04VsV3Fxr8YGOlSNmmfQ7mH.png" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-2/image_1505931884_eb6d43e20609dcb00235138ef0f43edb.png" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-2/image_1505932289_77391d55bacd2bf59fd1117c3c8483ad.png" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-2/image_1505932873_994c47dfabbf9ec10a98c555d6fa8b13.png" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-12/image_1532370547_K2BS8iYkjQHBA8JhHKuArTd5ptOTR3DzNlFvIaft.png" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-2/image_1505933364_730cdfa339ac2f937a5a83fa516437ce.jpeg" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-2/image_1505933981_fead48f4a81255b875d57ecf8e9c4b88.png" alt="Photo 5">
+            <img src="https://www.designrush.com/uploads/users/customer-12/image_1532370530_PUupRl8PHyZvMCs2KRMuskJdYeyqW3IeacT72WYE.png" alt="Photo 5">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Portland_General_Electric_logo.svg" alt="Photo 5">
+            <!-- Add more photos as needed -->
+        </div>
+    </div>
+
+</br>
+</br>
+</br>
+</br>
+<div class="container-bill-card">
+    <div class="card">
+        <img src="https://minio.production.cloudplatform.tech/scalable-pages/2023/05/accounting_tables_logo.svg" alt="Accounting Icon">
+        <p class="gst-paragraph">ACCOUNTING</p>
+    </div>
+    <div class="card">
+        <img src="https://mastergst.com/static/images/einvoice/einv-banner-web.png" alt="E-Invoice Software Icon">
+        <p class="gst-paragraph">E-INVOICE SOFTWARE</p>
+    </div>
+    <div class="card">
+        <img src="https://minio.production.cloudplatform.tech/scalable-pages/2023/05/accounting_tables_logo.svg" alt="Accounting Icon">
+        <p class="gst-paragraph">ACCOUNTING</p>
+    </div>
+    <div class="card">
+        <img src="https://mastergst.com/static/images/einvoice/einv-banner-web.png" alt="E-Invoice Software Icon">
+        <p class="gst-paragraph">E-INVOICE SOFTWARE</p>
+    </div>
+    <div class="card">
+        <img src="https://mastergst.com/static/images/einvoice/einv-banner-web.png" alt="E-Invoice Software Icon">
+        <p class="gst-paragraph">E-INVOICE SOFTWARE</p>
+    </div>
+</div>
+
+<h1 class="our-connection-heading">Our Connectors will simplify the integration to your ERP's/ Accounting products</h1>
+
+
+<div class="second-container-page">
+<div class="container-second-page">
+    <div class="text-section">
+        <h1 class="card-text-section">Many of businesses are running on WhiteBooks</h1>
+        <p class="card-text-section">WhiteBooks GST Software designed to manage multiple clients / GSTINs / Businesses at place, One time effort of adding your client and manage all at one place and avoid OTP generation all the time.</p>
+        <button class="Request-Demo-button-second">Request Demo</button>
+    </div>
+    <div class="image-section">
+        <img src="https://www.homecareinsight.co.uk/2020/07/connected-technology.jpg" alt="Hand with digital screen">
+    </div>
+</div>
+</div>
+    
+<div class="second-container-page">
+<div class="container-second-page">
+    <div class="text-section">
+        <h1 class="card-text-section">Manage your digital invoices on the cloud</h1>
+        <p class="card-text-section">You can create digital invoices, track payments and receipts and send digital invoices to customers over mail. A simplified dashboard helps to know how the business is doing at real time.</p>
+        <button class="Request-Demo-button-second">Request Demo</button>
+    </div>
+    <div class="image-section">
+        <img src="https://img.freepik.com/free-vector/isometric-money-background_52683-7991.jpg?t=st=1716831074~exp=1716834674~hmac=2955284c5aaab0718a6037d23b2f334481f319039194a57cead342b56476fc64&w=996" alt="Hand with digital screen">
+    </div>
+</div>
+</div>
+
+<div class="second-container-page">
+<div class="container-second-page">
+    <div class="text-section">
+        <h1 class="card-text-section">Automated accounting</h1>
+        <p class="card-text-section">WhiteBooks is simple to use, no need of accounting or finance expert, just enter your sales to whom and purchase from whom, we take care of Journal entries creation and gives you complete user friendly reports.</p>
+        <button class="Request-Demo-button-second">Request Demo</button>
+    </div>
+    <div class="image-section">
+        <img src="https://img.freepik.com/free-photo/representation-user-experience-interface-design_23-2150169846.jpg?t=st=1716831226~exp=1716834826~hmac=ef991d40b41493bd440da91e36344b1c0ceefb18d9644f091ffb8388d2b683e5&w=996" alt="Hand with digital screen">
+    </div>
+</div>
+</div>
+
+<div class="second-container-page">
+<div class="container-second-page">
+    <div class="text-section">
+        <h1 class="card-text-section">WhiteBooks is Cloud accounting software,</h1>
+        <p class="card-text-section">You can access anywhere any time and see real time business (sales, Purchases, receivables & payables), Complete simplified reports which can be understand by anyone.</p>
+        <button class="Request-Demo-button-second">Request Demo</button>
+    </div>
+    <div class="image-section">
+        <img src="https://img.freepik.com/premium-photo/digital-evolution-exploring-intersections-technology-business_388444-22918.jpg?w=996" alt="Hand with digital screen">
+    </div>
+</div>
+</div>
+    
+
+<div class="container-for-numbering-cards">
+    <div class="card-for-number">
+      <h2>4 Crores +</h2>
+      <p>Invoices Created across India</p>
+    </div>
+    <div class="card-for-number">
+      <h2>3279 +</h2>
+      <p>Cities & Towns In India</p>
+    </div>
+    <div class="card-for-number">
+      <h2>4920 +</h2>
+      <p>Businesses Trusted Us</p>
+    </div>
+    <div class="card-for-number">
+      <h2>2050 +</h2>
+      <p>CA's & Tax Prof</p>
+    </div>
+  </div>
+</br>
+
+<h1 class="our-connection-heading">Why WhiteBooks</h1>
+
+<div class="container-Why-WhiteBooks">
+    <div class="card-container">
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/process-communication-attracting-new-customers-followers-making-profit-sales-funnel-leads-prospects-business-strategy-monetization-tips-increasing-conversion-rates-smm-strategies_458444-810.jpg?w=1060" alt="Automated Accounting Icon">
+        </div>
+        <h3 class="card-title">AUTOMATED ACCOUNTING</h3>
+        <p class="card-description">WhiteBooks have automated all accounting scenarios and create journal entries. Zero mistake at data entry which gives you accurate accounting reports.</p>
+        <a href="#" class="explore-link">Explore Accounting →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/logo-company-accounting-growup_764192-52.jpg?w=740" alt="Create & Manage E-Invoice Icon">
+        </div>
+        <h3 class="card-title">CREATE & MANAGE E-INVOICE</h3>
+        <p class="card-description">Simple way to create Tax/GST/Digital Invoice in business language, we manage all digital invoices as part govt compliance and help you to focus more on business.</p>
+        <a href="#" class="explore-link">Explore E-Invoice →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+        <img src="https://5.imimg.com/data5/SELLER/Default/2021/9/JA/OX/QT/101667974/e-way-bills-500x500.jpg" alt="Generate & Manage E-Way Bills Icon">
+        </div>
+        <h3 class="card-title">GENERATE & MANAGE E-WAY BILLS</h3>
+        <p class="card-description">You can create and manage e-Way Bills at one click and auto-populate your invoice details and create Eway bills, we maintain all your way bills for years long.</p>
+        <a href="#" class="explore-link">Explore e-Way Bill →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-Why-WhiteBooks">
+    <div class="card-container">
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/process-communication-attracting-new-customers-followers-making-profit-sales-funnel-leads-prospects-business-strategy-monetization-tips-increasing-conversion-rates-smm-strategies_458444-810.jpg?w=1060" alt="Automated Accounting Icon">
+        </div>
+        <h3 class="card-title">GST INVOICING, BILLING & FILING</h3>
+        <p class="card-description">With simplified GST invoice formats, you can file all your GST returns using WhiteBooks with one click, we help you all GST compliance reports.</p>
+        <a href="#" class="explore-link">Explore Accounting →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/logo-company-accounting-growup_764192-52.jpg?w=740" alt="Create & Manage E-Invoice Icon">
+        </div>
+        <h3 class="card-title">MANAGE YOUR INVENTORY</h3>
+        <p class="card-description">Centralized Inventory module help you to manage stock at all your branches, stock movements between branches and complete inventory reports.</p>
+        <a href="#" class="explore-link">Explore E-Invoice →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+        <img src="https://5.imimg.com/data5/SELLER/Default/2021/9/JA/OX/QT/101667974/e-way-bills-500x500.jpg" alt="Generate & Manage E-Way Bills Icon">
+        </div>
+        <h3 class="card-title">RECONCILIATION (2A, 2B, BANK STATEMENTS)</h3>
+        <p class="card-description">Our matching logic help you to reconcile 2A/2B with your purchases and Bank statement reconciliation saves time and money and improves business efficiency.</p>
+        <a href="#" class="explore-link">Explore e-Way Bill →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-Why-WhiteBooks">
+    <div class="card-container">
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/process-communication-attracting-new-customers-followers-making-profit-sales-funnel-leads-prospects-business-strategy-monetization-tips-increasing-conversion-rates-smm-strategies_458444-810.jpg?w=1060" alt="Automated Accounting Icon">
+        </div>
+        <h3 class="card-title">MANAGE ACCOUNTS RECEIVABLES AND PAYMENTS</h3>
+        <p class="card-description">Automate the payments and receipts using bank reconcile and you can track of every transaction. Improves transparency and efficiency.</p>
+        <a href="#" class="explore-link">Explore Accounting →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/logo-company-accounting-growup_764192-52.jpg?w=740" alt="Create & Manage E-Invoice Icon">
+        </div>
+        <h3 class="card-title">SIMPLIFIED ACCOUNTING AND BUSINESS REPORTS</h3>
+        <p class="card-description">Simplified reports will help you to understand in business progress and makes you to be compliance free.</p>
+        <a href="#" class="explore-link">Explore E-Invoice →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+        <img src="https://5.imimg.com/data5/SELLER/Default/2021/9/JA/OX/QT/101667974/e-way-bills-500x500.jpg" alt="Generate & Manage E-Way Bills Icon">
+        </div>
+        <h3 class="card-title">QUOTATIONS & ESTIMATIONS</h3>
+        <p class="card-description">WhiteBooks is simple to use, no need of accounting or finance expert, just enter your sales to whom and purchase.</p>
+        <a href="#" class="explore-link">Explore e-Way Bill →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-Why-WhiteBooks">
+    <div class="card-container">
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/process-communication-attracting-new-customers-followers-making-profit-sales-funnel-leads-prospects-business-strategy-monetization-tips-increasing-conversion-rates-smm-strategies_458444-810.jpg?w=1060" alt="Automated Accounting Icon">
+        </div>
+        <h3 class="card-title">PURCHASE ORDERS</h3>
+        <p class="card-description">Whitebooks helps you to Avoids duplicate orders & Keeps track of incoming orders and help avoid any future disputes regarding the transaction</p>
+        <a href="#" class="explore-link">Explore Accounting →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+          <img src="https://img.freepik.com/premium-vector/logo-company-accounting-growup_764192-52.jpg?w=740" alt="Create & Manage E-Invoice Icon">
+        </div>
+        <h3 class="card-title">DELIVERY CHALLANS</h3>
+        <p class="card-description">Whitebooks helps When the goods are transported on an approval basis , Transporting goods abroad for promotion or exhibition,Transporting goods in multiple shipments.</p>
+        <a href="#" class="explore-link">Explore E-Invoice →</a>
+      </div>
+      <div class="card-Why-WhiteBooks">
+        <div class="card-icon">
+        <img src="https://5.imimg.com/data5/SELLER/Default/2021/9/JA/OX/QT/101667974/e-way-bills-500x500.jpg" alt="Generate & Manage E-Way Bills Icon">
+        </div>
+        <h3 class="card-title">ECOMMERCE INVOICES</h3>
+        <p class="card-description">The primary purpose of an Whitebooks invoice is to provide a business and its client with a record of sale.</p>
+        <a href="#" class="explore-link">Explore e-Way Bill →</a>
+      </div>
+    </div>
+  </div>
+
+<div class="container-googlesheet">
+    <h1>Still using Excel and Google Sheets for your invoicing?</h1>
+</br>
+    <h4>Try WhiteBooks for free</h4>
+    <h3 class="button-for-underline">Create your first invoice</h3>
+</br>
+</br>
+</br>
+</div>
+
+<div class="container-for-impress">
+    <h1 class="impress-heading">Impress clients with professional invoices</h1>
+    <ul class="impress-paragraph">
+        <li>Create invoices with ease</li>
+        <li>Customise invoices with attractive templates, Format Your own format of GST and Non-GST invoices</li>
+        <li>No need of accounting or finance expert, just enter your sales to whom and purchase from whom</li>
+    </ul>
+        <button class="Request-Demo-button">Request Demo</button>
+</br>
+</br>
+</br>
+</br>
+</br>
+</div>
+
+
+<div class="our-customers">
+    <h1 class="heading-for-customer">What our customer says</h1>
+</br>
+    <div class="card-container-profissional">
+        <div class="card-profissional">
+          <div class="card-header">
+            <div class="avatar">
+              <img src="https://as2.ftcdn.net/v2/jpg/03/25/73/59/1000_F_325735908_TkxHU7okor9CTWHBhkGfdRumONWfIDEb.jpg" alt="Avatar">
+            </div>
+            <h3>Sahil Jain</h3>
+            <p class="title">Director - Smartbiz Technologies Pvt. Ltd.</p>
+          </div>
+          <div class="card-body">
+            <p class="card-text">I just wanted to share a quick note and let you know that you guys do a really good job. I'm glad I decided to do business with you. You guys have made integration so quick and smooth which has not been there with other GSPs. When it comes to support, you guys have always been there round the clock. Thanks, guys!</p>
+          </div>
+        </div>
+      
+        <div class="card-profissional">
+          <div class="card-header">
+            <div class="avatar">
+              <img src="https://as2.ftcdn.net/v2/jpg/02/97/24/51/1000_F_297245133_gBPfK0h10UM3y7vfoEiBC3ZXt559KZar.jpg" alt="Avatar">
+            </div>
+            <h3>B V Srinivasababu</h3>
+            <p class="title">Sr Manager - IT Applications NSL</p>
+          </div>
+          <div class="card-body">
+            <p class="card-text">WhiteBooks helped me to Generate the e-Invoices and e-Way Bills from my SAP in a single click. Their SAP connector is efficient, simple and cost effective.</p>
+          </div>
+        </div>
+      
+        <div class="card-profissional">
+          <div class="card-header">
+            <div class="avatar">
+              <img src="https://as2.ftcdn.net/v2/jpg/04/43/15/21/1000_F_443152105_zb4YWg1Nj02NdzhjShsDCuHnMnoNxwse.jpg" alt="Avatar">
+            </div>
+            <h3>CA Atul Garg</h3>
+            <p class="title">Finance Controller - WheelsEye</p>
+          </div>
+          <div class="card-body">
+            <p class="card-text">WhiteBooks is solving GST complex problem like E Invoicing, e-Way Bill with base and Simple APIs. I recommend to apply / Incorporate WhiteBooks for all your GST need to make your system future ready.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+</div>
+
+
+<div class="faq-container">
+    <h1>Frequently Asked Questions</h1>
+    <p>"Signup to Explore the Features of WhiteBooks - A GST Software - A licensed GSP"</p>
+    <div class="faq-item">
+      <div class="faq-question">What is WhiteBooks GST software?</div>
+      <div class="faq-answer">
+        <!-- Add the answer content here -->
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question">What is WhiteBooks e-Invoice software?</div>
+      <div class="faq-answer">
+        <!-- Add the answer content here -->
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question">What is WhiteBooks e-Way Bill software?</div>
+      <div class="faq-answer">
+        <!-- Add the answer content here -->
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question">What is WhiteBooks accounting software?</div>
+      <div class="faq-answer">
+        <!-- Add the answer content here -->
+      </div>
+    </div>
+  </div>
+
+</br>
+</br>
+</br>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-section">
+        <h3>Our Products</h3>
+        <ul>
+          <li><a href="#">Accounting</a></li>
+          <li><a href="#">GST Software</a></li>
+          <li><a href="#">E-Invoice</a></li>
+          <li><a href="#">E-Way Bill</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h3>Connectors</h3>
+        <ul>
+          <li><a href="#">E-Way Bill SAP Connector</a></li>
+          <li><a href="#">E-Invoice SAP Connector</a></li>
+          <li><a href="#">E-Way Bill Connector For Tally</a></li>
+          <li><a href="#">E-Invoice Connector For Tally</a></li>
+          <li><a href="#">GST SAP Connector</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h3>Tools</h3>
+        <ul>
+          <li><a href="#">GST Number Search</a></li>
+          <li><a href="#">GST TAX Calculator</a></li>
+          <li><a href="#">HSN/SAC Search</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h3>About</h3>
+        <ul>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Partner</a></li>
+          <li><a href="#">Terms</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Refund &amp; Cancellation</a></li>
+          <li><a href="#">Shipping</a></li>
+          <li><a href="#">Pricing</a></li>
+        </ul>
+      </div>
+      <div class="logo">
+        <img src="https://lh3.googleusercontent.com/p/AF1QipMGp8IzPD4O2u3vdpu-DKHmQUO8UC-nFk0-IqM5=s1360-w1360-h1020" alt="WHITE BOOKS">
+      </div>
+
+
+
+    </br>
+</br>
+</br>
+
+
+      <div class="newsletter-container">
+        <div class="newsletter-text">Sign up for our monthly newsletter</div>
+        <div class="newsletter-form">
+          <input type="text" placeholder="Enter your Email" class="email-input">
+          <button class="schedule-demo">Schedule Demo</button>
+          <button class="subscribe-btn">Subscribe</button>
+        </div>
+        <div class="contact-info">
+          <a href="#"><i class="fab fa-facebook"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-linkedin"></i></a>
+          <a href="#"><i class="fab fa-xing"></i></a>
+          <span>sales@whitebooks.in | +91 9032111788</span>
+        </div>
+        <div class="company-info">
+          WhiteBooks.in A product of BVMIT Consulting Services India Private Limited (www.bvmcs.com), A GSP (GST Suvidha Provider) License holder from GSTIN(Govt.).
+        </div>
+      </div>
+
+
+
+
+    </div>
+  </footer>
+
+</div>
+    </body>
+</html>
